@@ -1,8 +1,8 @@
 class AwsSsoProfile < Formula
   desc "Generate and manage AWS CLI profiles using AWS SSO sessions"
   homepage "https://github.com/advantageous/AWS-SSO-Profile-Manager"
-  url "https://github.com/advantageous/AWS-SSO-Profile-Manager/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "d97723adb79b17b1285aaf74963bed7dfd43c414d83c47d4c98c9ec505a83b72"
+  url "https://github.com/advantageous/AWS-SSO-Profile-Manager/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "3d1ee096ab5d003af546615b282773c5af0fa317a928ad92d64f0df2d76cf57f"
   license "MIT"
 
   depends_on "bash"
